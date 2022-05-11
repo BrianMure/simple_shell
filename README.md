@@ -4,4 +4,4 @@ This is a colloborative project done in pairs at Alx. .The Project depict use of
   1. Write a UNIX command line interpreter
   2. Simple shell that handles command lines with arguments
   3. Simple shell that handles the PATH and fork must not be called if the command doesn’t exist for the simple shell, implement the exit built-in, that exits the shell 
-  4. Simple shell 0.4 + Implement the env built-in, that prints the current environment
+  4. Simple shell that implements the env built-in, that prints the current environment
